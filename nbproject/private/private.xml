@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/CSGPAdaptivePath/src/main/java/sidnet/stack/std/routing/shortestgeopath/ShortestGeoPathRouting.java</file>
+            <file>file:/D:/CSGPAdaptivePath/src/main/java/sidnet/utilityviews/statscollector/StatsCollector.java</file>
+            <file>file:/D:/CSGPAdaptivePath/src/users/java/sidnet/stack/users/sample_p2p/driver/Driver_SampleP2P.java</file>
+            <file>file:/D:/CSGPAdaptivePath/importedpackages/jist-swans-1.0.6/src/driver/heartbeat.java</file>
+            <file>file:/D:/CSGPAdaptivePath/importedpackages/jist-swans-1.0.6/src/jist/minisim/sleepblock.java</file>
+            <file>file:/D:/CSGPAdaptivePath/src/main/java/sidnet/core/query/WhereClause.java</file>
+            <file>file:/D:/CSGPAdaptivePath/src/main/java/sidnet/core/misc/NodesList.java</file>
+            <file>file:/D:/CSGPAdaptivePath/src/main/java/sidnet/models/energy/energyconsumptionparameters/EnergyConsumptionParameters.java</file>
+            <file>file:/D:/CSGPAdaptivePath/src/main/java/sidnet/stack/std/routing/heartbeat/RoutingTable.java</file>
+            <file>file:/D:/CSGPAdaptivePath/src/main/java/sidnet/stack/std/routing/heartbeat/HeartbeatProtocol.java</file>
+            <file>file:/D:/CSGPAdaptivePath/src/main/java/sidnet/core/misc/FileUtils.java</file>
+            <file>file:/D:/CSGPAdaptivePath/src/main/java/sidnet/core/misc/NodeFinder.java</file>
+        </group>
+    </open-files>
+</project-private>
